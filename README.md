@@ -1,5 +1,3 @@
-# nexus-desktop-releases
-
 # Nexus Desktop
 
 Manage your Discord server's teams and events from your desktop. Nexus Desktop is a Windows app that works together with the **Nexus** Discord bot, so you don't have to type slash commands for everything.
