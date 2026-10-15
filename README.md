@@ -35,7 +35,7 @@ The app checks for new versions on its own. When one is available you can downlo
 
 ## Feedback
 
-Found a bug or have an idea? Tell us in the Nexus Discord server.
+Found a bug or have an idea? Tell us in the Nexus Discord server: https://discord.gg/XqGmE55TAS
 
 ---
 This repository only hosts the installers and release files. The app's source code is private.
